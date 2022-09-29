@@ -6,7 +6,7 @@
 
 
 * 🌍  I'm based in TURKEY
-* ✉️  You can contact me at [here](mailto:akapella.1899@gmail.com)
+* ✉️  You can contact me at [here](mailto:arjinalbay21@gmail.com)
 * 🧠  I’m currently learning React.js
 
 
