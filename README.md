@@ -4,10 +4,9 @@
 <h1 align="center">Hi 👋, I'm Arjin</h1>
 <h3 align="center">A Jr frontend developer from Turkey</h3>
 
-
-* 🌍  I'm based in TURKEY
-* ✉️  You can contact me at [here](mailto:arjinalbay21@gmail.com)
 * 🧠  I’m currently learning React.js
+* ✉️  You can contact me at [here](mailto:arjinalbay21@gmail.com)
+
 
 
 <h3 align="left">Socials</h3>
