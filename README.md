@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 <h1 align="center">Hi 👋, I'm Arjin</h1>
-<h3 align="center">A Jr frontend developer from Turkey</h3>
+<h3 align="center">A Jr Full-Stack developer from Turkey</h3>
 
-* 🧠  I’m currently learning React.js
+* 🧠  I’m currently learning Go Lang
 * ✉️  You can contact me at [here](mailto:arjinalbay21@gmail.com)
 
 
