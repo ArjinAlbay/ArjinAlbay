@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Arjin Albay</h1>
-<h3 align="center">Full-Stack Developer | Former Teacher</h3>
+<h1 align="center">Hi 👋, I'm Arjin</h1>
+<h3 align="center">Full-Stack Developer </h3>
 
 * 👨‍💻 Working on enterprise solutions with **ASP.NET Core** & **Next.js**
 * 🚀 Open source contributor at **Happy Hacking Space**
