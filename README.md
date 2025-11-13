@@ -3,9 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Arjin</h1>
-<h3 align="center">Full-Stack Developer </h3>
 
-* 👨‍💻 Working on enterprise solutions with **ASP.NET Core** & **Next.js**
 * 🚀 Open source contributor at **Happy Hacking Space**
 * ✉️ You can contact me at [arjinalbay21@gmail.com](mailto:arjinalbay21@gmail.com)
 
